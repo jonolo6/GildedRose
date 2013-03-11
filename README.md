@@ -7,6 +7,16 @@ This Kata was originally created by Terry Hughes (http://twitter.com/#!/TerryHug
 
 See also http://iamnotmyself.com/2011/02/13/refactor-this-the-gilded-rose-kata/
 
+##Pre-requisites
+
+1) Install GIT (http://git-scm.com/)
+2) Create directory where to keep local copy of your project
+3) Sync down the code.
+ $> git clone https://github.com/jonolo6/GildedRose.git
+4) If you use IntelliJ then open the supplied project file. Otherwise import the project
+5) Install an Automatic test runner (TBD)
+
+
 ##How to use this Kata
 
 The simplest way is to just clone the code and start hacking away improving the design. You'll want to look at the "Gilded Rose Requirements" which explains what the code is for. I strongly advise you that you'll also need some tests if you want to make sure you don't break the code while you refactor.
