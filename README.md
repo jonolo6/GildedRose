@@ -9,12 +9,12 @@ See also http://iamnotmyself.com/2011/02/13/refactor-this-the-gilded-rose-kata/
 
 ##Pre-requisites
 
-1) Install GIT (http://git-scm.com/)
-2) Create directory where to keep local copy of your project
-3) Sync down the code.
- $> git clone https://github.com/jonolo6/GildedRose.git
-4) If you use IntelliJ then open the supplied project file. Otherwise import the project
-5) Install an Automatic test runner (TBD)
+1. Install GIT (http://git-scm.com/)
+2. Create directory where to keep local copy of your project
+3. Sync down the code.
+ 	$> git clone https://github.com/jonolo6/GildedRose.git
+4. If you use IntelliJ then open the supplied project file. Otherwise import the project
+5. Install an Automatic test runner (TBD)
 
 
 ##How to use this Kata
