@@ -1,6 +1,7 @@
 package com.expedia.gildedrose;
 
 import org.testng.annotations.Test;
+
 import java.util.Arrays;
 
 import static org.testng.Assert.assertEquals;

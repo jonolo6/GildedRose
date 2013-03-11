@@ -7,13 +7,25 @@ This Kata was originally created by Terry Hughes (http://twitter.com/#!/TerryHug
 1. Install GIT (http://git-scm.com/)
 2. Create directory where to keep local copy of your project
 3. Sync down the code.
- 	$> git clone https://github.com/jonolo6/GildedRose.git
+        $> git clone https://github.com/jonolo6/GildedRose.git
 4. Import the project into your IDE
 5. Install an Automatic test runner (TBD)
 
 ## How to use this Kata
 
-Clone the code and start hacking away improving the design. You'll want to look at the "Gilded Rose Requirements" below, which explains what the code is for. The idea of the exercise is to do some deliberate practice, and improve your Refactoring skills. The idea is not to re-write the code from scratch, but rather to practice taking small steps, running the tests often, and incrementally improving the design.
+You have to follow the TDD rules below to the best of your ability when working on this project:
+
+1. You are not allowed to write any production code (anything under /src) unless it is to make a failing unit test pass.
+2. You are not allowed to write any more of a unit test than is sufficient to fail; and compilation failures are failures.
+3. You are not allowed to write any more production code (anything under /src) than is sufficient to pass the one failing unit test.
+
+You have to follow the TDD flow below to the best of your ability when working on this project:
+
+1. Write a failing test
+2. Write code to make the test pass
+3. Refactor the code.
+
+Look at the "Gilded Rose Requirements" below, which explains what the code is for. The idea of the exercise is to do some deliberate practice, and improve your Refactoring skills. The idea is not to re-write the code from scratch, but rather to practice taking small steps, running the tests often, and incrementally improving the design.
 
 ## Gilded Rose Requirements
 
